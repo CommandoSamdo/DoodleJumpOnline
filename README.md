@@ -40,4 +40,5 @@ You can play the game online here:
 
 ## How to Run (如何运行)
 
-To play the game, simply click the link above. No additional setup is required. (点击上面的链接即可玩游戏，无需额外设置。)
+To play the game, simply click the link above. No additional setup is required. 
+点击上面的链接即可玩游戏，无需额外设置。
